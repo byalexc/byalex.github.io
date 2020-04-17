@@ -49,3 +49,8 @@ p {
 #mainlogo {
 	z-index: 99;
 }
+
+#header {
+	width: 150%;
+	height: auto;
+}
