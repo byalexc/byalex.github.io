@@ -1,5 +1,5 @@
 body {
-	background: black;
+	background: white;
 	font-family: arial;
 	font-size: 50%;
 }
@@ -23,7 +23,7 @@ img {
 }
 
 p {
-	color: #0045ff;
+	color: #005bff;
 	padding: 0px 30px;
 }
 
