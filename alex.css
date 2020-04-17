@@ -61,6 +61,9 @@ p {
     text-align: center;
     width: 50%;
     vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;	
 }
 
 #border {
