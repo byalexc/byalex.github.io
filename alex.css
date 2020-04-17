@@ -56,15 +56,6 @@ p {
 	height: auto;
 }
 
-#homeContainer {
-	position: fixed;
-  	z-index: 99;
-  	right: 0;
-  	bottom: 0;
-  	min-width: 100%;
-  	min-height: 100%;
-}
-
 #border {
   position: fixed;
   z-index: 99;
