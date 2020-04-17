@@ -55,6 +55,14 @@ p {
 	height: auto;
 }
 
+#verticalHorizontal {
+    display: table-cell;
+    height: 100%;
+    text-align: center;
+    width: 100%;
+    vertical-align: middle;
+}
+
 #border {
   position: fixed;
   z-index: 99;
