@@ -58,3 +58,8 @@ p {
 #spacing {
 	color: white;
 }
+
+.down-arrow {
+  margin-left: 5%;
+  white-space: nowrap;
+}
