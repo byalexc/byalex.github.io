@@ -17,6 +17,10 @@ body {
 	align-items: center;
 }
 
+h2 {
+	color: white;
+}
+
 img {
 	width: 15%;
 	height: auto;
