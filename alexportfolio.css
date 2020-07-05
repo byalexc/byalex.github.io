@@ -1,5 +1,5 @@
 body {
-	background: white;
+	background: black;
 	font-family: arial;
 	font-size: 50%;
 }
@@ -62,4 +62,6 @@ p {
 .down-arrow {
   margin-left: 3%;
   white-space: nowrap;
+-webkit-filter: invert(1);
+   filter: invert(1);
 }
