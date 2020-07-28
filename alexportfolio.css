@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background-color: #000000;
+	background-color: red;
 	font-family: 'Arial', serif;
 }
 
@@ -73,4 +73,28 @@ body {
   	justify-content: center;
   	align-items: center;
 	padding: 10px 35px 10px 35px;
+}
+
+.box {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	padding: 0 35px 0 35px;
+}
+
+.psychosisbox {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	padding: 0 35px 0 35px;
+}
+
+.psychosiscontainer {
+	position: relative;
+	display: flex;
+	justify-content: left;
+	align-items: flex-start;
+	padding-right: 35px;
+	padding-left: 35px;
+	padding: 25px 0 25px 0;
 }
