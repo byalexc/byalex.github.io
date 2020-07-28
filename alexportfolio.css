@@ -37,3 +37,10 @@ body {
 	font-size: 12px;
 	font-weight: bold;
 }
+
+.description {
+	color: #ffffff;
+	float: left;
+	padding-left: 35px;
+	font-size: 12px;
+}
