@@ -54,10 +54,10 @@ body {
 	height: 10%;
 }
 
-img {
-	width: 100%;
-	height: auto;
-	padding-left: 25px;
+*/img {
+	width: 100 % ;
+	height: auto
+	padding-left: 25 px
 }
 
 .container {
