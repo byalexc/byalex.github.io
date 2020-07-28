@@ -45,7 +45,7 @@ body {
 	font-size: 12px;
 	padding-right: 35px;
 	padding-left: 35px;
-	float: right;
+	float: left;
 }
 
 .poster {
@@ -55,7 +55,14 @@ body {
 }
 
 img {
-	padding-left: 35px;
-	width: 25%;
+	width: 100%;
 	height: auto;
+	padding-left: 25px;
+}
+
+.container {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
 }
