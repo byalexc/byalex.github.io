@@ -1,67 +1,39 @@
 body {
-	background: black;
-	font-family: arial;
-	font-size: 50%;
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+	font-family: 'Arial', serif;
 }
 
-#loader {
-	position: fixed;
-	z-index: 99;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background-color: black;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+.nav {
+	background-color: #000000;
+	color: #ffffff;
+	list-style: none;
+	text-align: right;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 20px 0 20px 0;
+	padding-right: 35px;
 }
 
-img {
-	width: 15%;
-	height: auto;
+.nav > li {
+	display: inline-block;
+	padding: 0 15px 0 15px;
 }
 
-p {
-	color: #dccbd5;
-	padding: 0px 30px;
+.nav >li > a {
+	text-decoration: none;
+	color: #ffffff;
 }
 
-#projects {
-	width: 52%;
-	height: auto;
+.nav > li > a:hover {
+	color: #c1c1c1;
 }
 
-#about {
-	width: 54%;
-	height: auto;
-}
-
-#des {
-	
-	font-size: 125%;
-}
-
-#email {
-	z-index: 98;
-}
-
-#mainlogo {
-	z-index: 99;
-}
-
-.scrolling-wrapper {
-  margin-left: 10%;
-  white-space: nowrap;
-}
-
-#spacing {
-	color: black;
-}
-
-.down-arrow {
-  margin-left: 3%;
-  white-space: nowrap;
--webkit-filter: invert(1);
-   filter: invert(1);
+.logo {
+	color: #ffffff;
+	float: left;
+	padding-left: 35px;
+	font-size: 12px;
+	font-weight: bold;
 }
