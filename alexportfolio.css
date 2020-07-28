@@ -43,8 +43,6 @@ body {
 	color: #ffffff;
 	text-align: left;
 	font-size: 12px;
-	padding-right: 35px;
-	padding-left: 35px;
 	float: left;
 }
 
@@ -54,17 +52,13 @@ body {
 	height: 10%;
 }
 
-*/img {
-	width: 100 % ;
-	height: auto
-	padding-left: 25 px
-}
-
 .container {
 	position: relative;
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
+	padding-right: 35px;
+	padding-left: 35px;
 }
 
 .psychosis {
